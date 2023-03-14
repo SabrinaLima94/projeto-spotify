@@ -36,12 +36,17 @@
   <body>
     <!-- início cabeçalho-->
     <header>
-      <nav class="navbar navbar-expand-md navbar-light fixed-top bg-warning">
+      <!-- inicio barra de navegação -->
+      <nav
+        class="navbar navbar-expand-md navbar-light fixed-top navbar-transparente"
+      >
+        <!-- início container -->
         <div class="container">
           <a href="index.html" class="navbar-brand">
             <img src="img/spotify.svg" width="142" />
           </a>
 
+          <!-- menu hamburguer -->
           <button
             class="navbar-toggler"
             data-toggle="collapse"
@@ -49,31 +54,63 @@
           >
             <i class="fa-solid fa-bars text-white"></i>
           </button>
+          <!-- fim menu hamburguer-->
 
+          <!-- início navbar-collapse -->
           <div class="collapse navbar-collapse" id="nav-principal">
+            <!-- início ul -->
             <ul class="navbar-nav ml-auto">
+              <!-- início li -->
               <li class="nav-item">
                 <a href="" class="nav-link">Premium</a>
               </li>
               <li class="nav-item">
                 <a href="" class="nav-link">Ajuda</a>
               </li>
-              <li class="nav-item">
-                <a href="" class="nav-link">Baixar</a>
-              </li>
+              <li class="nav-item"><a href="" class="nav-link">Baixar</a></li>
+
+              <li class="nav-item divisor"></li>
+
               <li class="nav-item">
                 <a href="" class="nav-link">Inscrever-se</a>
               </li>
               <li class="nav-item">
                 <a href="" class="nav-link">Entrar</a>
               </li>
+              <!-- fim li -->
             </ul>
+            <!-- fim ul -->
+          </div>
+          <!-- fim navbar-collapse -->
+        </div>
+        <!-- fim container -->
+      </nav>
+      <!-- fim barra de navegação -->
+    </header>
+    <!-- fim cabeçalho -->
+
+    <!-- início home -->
+    <section id="home" class="d-flex">
+      <!-- início container -->
+      <div class="container align-self-center">
+        <!-- início row -->
+        <div class="row">
+          <div class="col-md-12 capa">
+            <h1>Música para todos</h1>
+
+            <a href="" class="btn btn-lg btn-custom btn-roxo"
+              >Aproveite o Spotify Free</a
+            >
+            <a href="" class="btn btn-lg btn-custom btn-branco"
+              >Obter Spotify Premium</a
+            >
           </div>
         </div>
-      </nav>
-    </header>
-
-    <!-- fim cabeçalho -->
+        <!-- fim row -->
+      </div>
+      <!-- fim container -->
+    </section>
+    <!-- fim home -->
 
     <!-- JavaScript (Opcional) -->
     <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->

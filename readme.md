@@ -10,3 +10,10 @@ _Desenvolvido na Seção 7: Bootstrap 4 & Design responsivo do Curso de Desenvol
 - Criação da barra de navegação no topo com o menu hamburguer e a logo;
 - Colocando o background com combinação de imagens + gradiente linear;
 - Configuração do `background-attachment`;
+
+### Aula 2
+
+- Finalizando a barra de navegação (background, ajustando menu, aplicando divisor e formatação dos links);
+- Criando a seção home (Música para todos) utilizando grid;
+- Configurando media queries para responsividade;
+- Formatando botões, sobrescrevendo a configuração padrão do bootstrap através da verificação da especificidade (clicando em inspecionar);
