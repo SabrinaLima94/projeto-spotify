@@ -17,3 +17,11 @@ _Desenvolvido na Seção 7: Bootstrap 4 & Design responsivo do Curso de Desenvol
 - Criando a seção home (Música para todos) utilizando grid;
 - Configurando media queries para responsividade;
 - Formatando botões, sobrescrevendo a configuração padrão do bootstrap através da verificação da especificidade (clicando em inspecionar);
+
+### Aula 3
+
+- Criando a seção serviços e seção recursos, incluindo conteúdos em imagens e textos;
+- Formatando a tipografia de cada seção individualmente;
+- Utilização do grid para dividir blocos de imagens;
+- Rotacinando a row (imagens de iphones);
+- Aplicando o atributo `overflow-x: hidden;` para esconder a rolagem horizontal;
