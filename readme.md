@@ -25,3 +25,8 @@ _Desenvolvido na Seção 7: Bootstrap 4 & Design responsivo do Curso de Desenvol
 - Utilização do grid para dividir blocos de imagens;
 - Rotacinando a row (imagens de iphones);
 - Aplicando o atributo `overflow-x: hidden;` para esconder a rolagem horizontal;
+
+### Aula 4
+
+- Criação o rodapé;
+- Utilização da opção "inspecionar" disponível no google chrome para visualização da responsividade em diversos dispositivos;
