@@ -30,3 +30,7 @@ _Desenvolvido na Seção 7: Bootstrap 4 & Design responsivo do Curso de Desenvol
 
 - Criação o rodapé;
 - Utilização da opção "inspecionar" disponível no google chrome para visualização da responsividade em diversos dispositivos;
+
+### Aula 5
+
+- Adicionando o Carousel Slider conforme estudado em aula anterior do curso;
